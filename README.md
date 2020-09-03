@@ -24,3 +24,10 @@ lighthouse --only-categories=performance --output=html --output-path=report.html
 ```
 
 [Latest Safari on iOS User Agents](https://www.whatismybrowser.com/guides/the-latest-user-agent/safari)
+
+## Options
+
+- lighthouse <url> --emulated-form-factor=none --throttling-method=provided
+  - Disable device emulation and all throttling.
+
+https://github.com/GoogleChrome/lighthouse/tree/v6.3.0#cli-options
