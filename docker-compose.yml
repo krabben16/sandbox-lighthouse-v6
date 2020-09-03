@@ -1,0 +1,10 @@
+version: '3'
+services:
+  lighthouse:
+    build:
+      context: ./infra
+    image: image-lighthouse
+    container_name: container-lighthouse
+    volumes:
+      - ./lighthouse:/lighthouse
+    tty: true
