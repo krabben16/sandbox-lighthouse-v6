@@ -1,4 +1,4 @@
-# test-lighthouse
+# test-lighthouse-v6
 
 ## host
 
