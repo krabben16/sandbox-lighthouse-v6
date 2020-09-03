@@ -27,7 +27,7 @@ lighthouse --only-categories=performance --output=html --output-path=report.html
 
 ## Options
 
-- lighthouse <url> --emulated-form-factor=none --throttling-method=provided
+- `lighthouse <url> --emulated-form-factor=none --throttling-method=provided`
   - Disable device emulation and all throttling.
 
 https://github.com/GoogleChrome/lighthouse/tree/v6.3.0#cli-options
