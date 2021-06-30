@@ -1,5 +1,3 @@
-# test-lighthouse-v6
-
 ## host
 
 ```shell
